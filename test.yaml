@@ -6,4 +6,8 @@ member:
 - ccc
 - ddd
 - 깃헙 수정
+<<<<<<< HEAD
 - vs 수정
+=======
+- 깃헙 수정2
+>>>>>>> 37d6085bb2473bc4e74a2782faa33b1ece1daaef
